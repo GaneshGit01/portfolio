@@ -9,7 +9,7 @@ function Hero() {
       </h1>
       <p>I'm a passionate React Developer & Web Enthusiast</p>
       <a
-        href="/Frontend CV.pdf"
+        href="/Ganeshkumar  Front-End Developer  CV.pdf"
         className="hero-btn"
         target="_blank"
         rel="noopener noreferrer"
